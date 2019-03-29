@@ -1,7 +1,5 @@
 package com.dennis.messaging.model;
 
-import java.awt.*;
-
 public class Chat_Message {
     private MessageType type;
     private String content;
